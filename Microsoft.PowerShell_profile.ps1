@@ -22,5 +22,4 @@ Function Edit-HostsFile {
 }
 
 
-Set-Alias edit Start-Editor
-Set-Alias hosts Edit-HostsFile
+Import-Alias .\alias.txt
