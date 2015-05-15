@@ -35,3 +35,5 @@ Function Edit-HostsFile {
 
 
 Import-Alias .\alias.txt
+
+Import-Module Cabal
